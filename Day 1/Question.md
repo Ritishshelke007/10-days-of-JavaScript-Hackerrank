@@ -22,7 +22,7 @@ The values returned by these functions are printed to stdout by locked stub code
 15
 ```
 
-####Javascript
+#### Javascript
 
 ```javascript
 function getArea(length, width) {
