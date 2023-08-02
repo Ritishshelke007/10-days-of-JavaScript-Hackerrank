@@ -7,6 +7,7 @@ In this challenge, we practice declaring variables using the let and const keywo
 2. Read a number, r, denoting the radius of a circle from stdin.
 3. Use PI and r to calculate the **area** and **perimeter** of a circle having radius r.
 4. Print area as the first line of output and print perimeter as the second line of output.
+
 **Input**
 ```
 2.6
