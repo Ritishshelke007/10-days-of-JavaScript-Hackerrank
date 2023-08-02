@@ -27,10 +27,8 @@ getSecondLargest has the following parameters:
 function getSecondLargest(nums) {
     const mySet = new Set(nums);
   
-    const arr2 = Array.from(mySet);
-    
-    arr2.sort((a,b)=>b-a);
-    
+    const arr2 = Array.from(mySet).sort((a,b)=>b-a);
+
     return arr2[1];
 }
 ```
