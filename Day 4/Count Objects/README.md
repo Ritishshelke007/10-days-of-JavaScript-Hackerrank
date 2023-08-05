@@ -5,7 +5,8 @@ In this challenge, we learn about iterating over objects. Check the attached tut
 ## Task
 
 Complete the function in the editor. It has one parameter: an array, a, of objects. Each object in the array
-has two integer properties denoted by x and y. The function must return a count of all such objects o in array a that satisfy **o.x==o.y**
+has two integer properties denoted by x and y. The function must return a count of all such objects o in array a that satisfy o.x==o.y
+
 **Input 0**
 ```
 5
